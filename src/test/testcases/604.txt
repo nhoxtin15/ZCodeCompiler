@@ -1,0 +1,8 @@
+
+            func main()
+            begin
+                dynamic a <- [2,3]
+                number b[2,2] <- [[1,1], a]
+                writeNumber(b[1,1])
+            end
+        

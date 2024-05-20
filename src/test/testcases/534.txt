@@ -1,9 +1,0 @@
-
-        func main ()
-        begin
-            writeBool(true and true) 
-            writeBool(true and false)
-            writeBool(false and true) 
-            writeBool(false and false)  
-        end
-        

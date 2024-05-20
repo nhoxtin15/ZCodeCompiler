@@ -1,9 +1,0 @@
-
-        func foo()
-            return true
-        func main ()
-        begin
-            var a <- foo() ## true
-            writeBool(a)
-        end
-        

@@ -1,7 +1,0 @@
-
-        number a[2, 3]
-        func main ()
-        begin
-           writeNumber(a[0,0])
-        end
-        

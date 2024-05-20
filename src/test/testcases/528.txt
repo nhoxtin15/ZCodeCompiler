@@ -1,8 +1,0 @@
-
-        func main ()
-        begin
-            writeBool(1 > 2) ## push -1
-            writeBool(2 > 1) ## push 1
-            writeBool(1 > 1) ## push 0
-        end
-        

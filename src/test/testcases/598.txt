@@ -1,7 +1,0 @@
-
-            func main()
-            begin
-                number a
-                writeNumber(a)
-            end
-        

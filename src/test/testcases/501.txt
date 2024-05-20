@@ -1,8 +1,0 @@
-
-        func main ()
-        begin
-            writeNumber(1)
-            writeBool(true)
-            writeString("votien")
-        end
-        

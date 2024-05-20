@@ -1,8 +1,0 @@
-
-        number a <- 1
-        func main ()
-        begin
-            number a <- 2
-            writeNumber(a)
-        end
-        

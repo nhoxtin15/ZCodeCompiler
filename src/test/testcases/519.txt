@@ -1,7 +1,0 @@
-
-        func main ()
-        begin
-            var a <- readString()
-            writeString(a)
-        end
-        
